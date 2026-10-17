@@ -1,0 +1,143 @@
+{
+  "urls": [
+    {
+      "url": "https://raw.githubusercontent.com/EchaOmega/ALYA/refs/heads/main/-_ALYA_-/",
+      "added": "2026-10-17"
+    }
+  ],
+  "songs": [
+    {
+      "bemusepack_url": "bemuse-data/sound/metadata.json",
+      "charts": [
+        {
+          "md5": "0e1523b5e9d74c9203b25c7618d8de24",
+          "info": {
+            "title": "ALYA",
+            "artist": "Aquer",
+            "genre": "Botanical Hi-Tech",
+            "subtitles": [
+              "[Unfading Memories]"
+            ],
+            "subartists": [
+              "movie:aamreuworks / illust:Minato -Uki- / obj:Echa"
+            ],
+            "difficulty": 4,
+            "level": 12
+          },
+          "noteCount": 1164,
+          "bpm": {
+            "init": 156,
+            "min": 156,
+            "median": 156,
+            "max": 156
+          },
+          "duration": 98.07616033268468,
+          "scratch": true,
+          "keys": "7K",
+          "file": "_ALYA-A.bms"
+        },
+        {
+          "md5": "4ae8784de8ffa926f6e941b7168014e4",
+          "info": {
+            "title": "ALYA",
+            "artist": "Aquer",
+            "genre": "Botanical Hi-Tech",
+            "subtitles": [
+              "[7Beginner]"
+            ],
+            "subartists": [
+              "movie:aamreuworks / illust:Minato -Uki- / obj:Echa"
+            ],
+            "difficulty": 1,
+            "level": 2
+          },
+          "noteCount": 167,
+          "bpm": {
+            "init": 156,
+            "min": 156,
+            "median": 156,
+            "max": 156
+          },
+          "duration": 98.07616033268468,
+          "scratch": true,
+          "keys": "7K",
+          "file": "_ALYA-B.bms"
+        },
+        {
+          "md5": "4a18bfc20941e67448197ca61417d857",
+          "info": {
+            "title": "ALYA",
+            "artist": "Aquer",
+            "genre": "Botanical Hi-Tech",
+            "subtitles": [
+              "[7Hyper]"
+            ],
+            "subartists": [
+              "movie:aamreuworks / illust:Minato -Uki- / obj:Echa"
+            ],
+            "difficulty": 3,
+            "level": 11
+          },
+          "noteCount": 804,
+          "bpm": {
+            "init": 156,
+            "min": 156,
+            "median": 156,
+            "max": 156
+          },
+          "duration": 98.07616033268468,
+          "scratch": true,
+          "keys": "7K",
+          "file": "_ALYA-H.bms"
+        },
+        {
+          "md5": "9413bbe5fb3a4bb902150ada6022fa25",
+          "info": {
+            "title": "ALYA",
+            "artist": "Aquer",
+            "genre": "Botanical Hi-Tech",
+            "subtitles": [
+              "[7Normal]"
+            ],
+            "subartists": [
+              "movie:aamreuworks / illust:Minato -Uki- / obj:Echa"
+            ],
+            "difficulty": 2,
+            "level": 7
+          },
+          "noteCount": 462,
+          "bpm": {
+            "init": 156,
+            "min": 156,
+            "median": 156,
+            "max": 156
+          },
+          "duration": 98.07616033268468,
+          "scratch": true,
+          "keys": "7K",
+          "file": "_ALYA-N.bms"
+        }
+      ],
+      "title": "ALYA",
+      "artist": "Aquer",
+      "genre": "Botanical Hi-Tech",
+      "bpm": 156,
+      "replaygain": "-10.98 dB",
+      "song_url": "https://soundcloud.com/nymphaquer/bof22-alya",
+      "bms_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&event=152&num=1",
+      "youtube_url": "https://www.youtube.com/watch?v=GLBrj56WEKk",
+      "bmssearch_id": "PbXdGhN1JNt8p3",
+      "artist_url": "https://fanlink.tv/AquerDTM",
+      "readme": "README.md",
+      "back_image_url": "bemuse-data/back_image.png",
+      "eyecatch_image_url": "bemuse-data/eyecatch_image.png",
+      "video_url": "bemuse-data/bga.mp4",
+      "video_offset": 0.5769,
+      "preview_offset": 40,
+      "preview_url": "bemuse-data/preview.mp3",
+      "added": "2026-10-17T00:00:00.000Z",
+      "id": "-_ALYA_-",
+      "path": "https://raw.githubusercontent.com/EchaOmega/ALYA/refs/heads/main/-_ALYA_-/"
+    }
+  ]
+}
